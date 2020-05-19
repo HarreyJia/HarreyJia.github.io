@@ -129,7 +129,7 @@ comments:
   gitalk:
     clientID    : 064dc0d13c2930f3ca8f
     clientSecret: 78a804a1d13afe45a193ebc630333c41b0ace37f
-    repository  : HarreyJia/HarreyJia.github.io
+    repository  : HarreyJia.github.io
     owner       : HarreyJia
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - HarreyJia
